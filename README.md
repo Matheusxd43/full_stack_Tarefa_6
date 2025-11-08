@@ -135,6 +135,6 @@ O frontend conseguirá fazer as chamadas para o backend e carregar os dados sem 
 
 Desenvolvido por **Matheus de Almeida Vaz Rodrigues**  
 📧 E-mail: [matheusdadonexd23@gmail.com](mailto:matheusdadonexd23@gmail.com)  
-💼 GitHub: [matheus-rodrigues](https://github.com/matheus-rodrigues)
+💼 GitHub: [Matheusxd43](https://github.com/matheus-rodrigues)
 
 ---
