@@ -1,4 +1,4 @@
-<h1 align="center">Lista de Tarefas 06 - Correção de CORS</h1>
+<h1 align="center"> Att-6 Correção de CORS</h1>
 
 <p align="center">
   <strong>Projeto Full Stack para a disciplina de Projeto de Aplicação, demonstrando a identificação e correção de um erro de CORS em uma API Spring Boot.</strong>
